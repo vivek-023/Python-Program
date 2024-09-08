@@ -1,0 +1,4 @@
+Hello, this is some initial text.
+This is another line of text.
+Appending more text to the file.
+This is the final line.

@@ -1,0 +1,4 @@
+This is some text that we are writing to the file.
+This is another line of text.
+Appending some more text to the file.
+This is the final line.
